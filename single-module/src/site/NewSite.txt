@@ -1,0 +1,4 @@
+driver=com.sap.db.jdbc.Driver
+url=jdbc:oracle:thin:@DC1SIT2MDB01.PROD.TANGOE.COM:1521/SIT2_CORE
+username=CORE
+password=Welcome1
