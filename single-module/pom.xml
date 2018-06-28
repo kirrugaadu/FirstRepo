@@ -6,6 +6,7 @@
   added new line in new brach 
   added somenew stuff in new branch
   added second file in the Branch number two
+  modified in the branch
   <groupId>com.example.maven-samples</groupId>
   <artifactId>single-module-project</artifactId>
   <packaging>jar</packaging>
