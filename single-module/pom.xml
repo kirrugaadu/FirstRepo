@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   added somenew stuff in new branch
-
+  added second file in the Branch number two
   <groupId>com.example.maven-samples</groupId>
   <artifactId>single-module-project</artifactId>
   <packaging>jar</packaging>
