@@ -2,9 +2,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  
+  added new line in new brach 
   added somenew stuff in new branch
-  added second file in the Branch number two
+  added second file in the Branch numbdsada
+         dsadasdadasdaser two
+         zczxxc
+         zxc
+         zxc
+         zcz
+         x
+         c
+         zx
   <groupId>com.example.maven-samples</groupId>
   <artifactId>single-module-project</artifactId>
   <packaging>jar</packaging>
